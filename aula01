@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Primeiros Passos com JavaScript</title>
+</head>
+<body>
+    <h1>Primeiros Passos com JavaScript</h1>
+    <hr />
+
+    <h2>Índice</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Neste índice, você deve colocar os tópicos que mais entendeu. Estas são apenas sugestões.</p>
+    <ul>
+        <li><a href="#">O que é JavaScript?</a></li>
+        <li><a href="#">Variáveis e Tipos de Dados</a></li>
+        <li><a href="#">Estruturas de Controle</a></li>
+        <li><a href="#">Funções</a></li>
+        <li><a href="#">Eventos e Manipulação do DOM</a></li>
+        <li><a href="#">Referências e Recursos</a></li>
+    </ul>
+
+    <h2>O que é JavaScript?</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>avaScript é uma linguagem de programação utilizada 
+        principalmente para adicionar interatividade e dinamismo às páginas web. 
+        É executado no navegador do cliente e permite manipular elementos HTML, 
+        responder a eventos e realizar requisições assíncronas. 
+       </p>
+    
+
+    <h2>Variáveis e Tipos de Dados</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Em JavaScript, as variáveis são usadas para armazenar dados. 
+        Existem diversos tipos de dados, como números, strings, booleanos, arrays e objetos, 
+        cada um com suas características e formas de manipulação. 
+        </p>
+   
+
+    <h2>Estruturas de Controle</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>As estruturas de controle em JavaScript permitem 
+        controlar o fluxo de execução do código. Isso inclui condicionais (como if, else if e else) 
+        para tomar decisões com base em condições, e loops (como for, while e do-while) 
+        para repetir a execução de um bloco de código.
+       <strong>negrito</strong>, <i>itálico</i> e <u>sublinhado</u> quando necessário.</p>
+  
+
+    <h2>Funções</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Funções em JavaScript são blocos de código reutilizáveis 
+        que podem ser chamados/executados quando necessário. Elas podem aceitar parâmetros e retornar valores, 
+        permitindo modularizar e organizar o código de maneira mais eficiente. 
+       </p>
+    
+
+    <h2>Eventos e Manipulação do DOM</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Eventos são ações que ocorrem no navegador, 
+        como clicar em um botão ou carregar uma página. 
+        A manipulação do DOM (Document Object Model) em JavaScript permite interagir com os elementos 
+        HTML da página, alterando seu conteúdo, estilo e comportamento em resposta a esses eventos. 
+       </p>
+   
+
+    <h2>Referências e Recursos</h2>
+    <p><strong><u>INSTRUÇÕES:</u> </strong>Aqui são fornecidos links para outras páginas que oferecem 
+        informações adicionais sobre JavaScript, como a documentação oficial do Mozilla Developer Network (MDN) 
+        e o tutorial da W3Schools. Esses recursos podem ser úteis para aprofundar o conhecimento 
+        sobre a linguagem e suas funcionalidades.</p>
+    <ul>
+        <li><a href="#">https://developer.mozilla.org/pt-BR/docs/Web/JavaScript</a></li>
+        <li><a href="#">https://www.w3schools.com/js/</a></li>
+    </ul>
+
+</body>
+</html>
